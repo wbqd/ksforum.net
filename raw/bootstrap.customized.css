@@ -518,7 +518,7 @@ table th[class*="col-"] {
   border-bottom-color: #ebccd1;
 }
 .page {
-  width: 600px!important;
+  width: 800px!important;
   margin: 0px auto;
 }
 .th {
@@ -1017,6 +1017,13 @@ section.wide {
   padding: 0 10px 0 10px;
   margin: 0 auto;
 }
+section.top-bg-1 {
+  width: 1000px;
+  height: 200px;
+  background-image: url("http://ksforum.net/xpressengine/files/attach/images/132/134/f90c65a68e727fac09e9e82801c5cdf5.jpg");
+  background-repeat: repeat-x;
+  margin-bottom: 5px;
+}
 #wide {
   width: 500px;
   margin: 0 auto;
@@ -1034,4 +1041,11 @@ a {
 }
 li {
   font-size: 14px;
+}
+.top-bg-2 {
+  width: 1000px;
+  height: 200px;
+  background-image: url("http://ksforum.net/xpressengine/files/attach/images/139/215/64b678172e840622685a5bb472e68598.jpg");
+  background-repeat: repeat-x;
+  margin-bottom: 5px;
 }
