@@ -987,7 +987,7 @@ input[type="button"].btn-block {
   clear: left
 }
 .welcomeXE section h1 {
-  padding: 0 0 0 50px;
+  /*padding: 0 0 0 50px;*/
   font-size: 18px;
   margin: 0 0 15px 0;
   color: #333
@@ -1012,7 +1012,7 @@ input[type="button"].btn-block {
   color: #333
 }
 section.wide {
-  width: 400px!important;
+  width: 360px!important;
   float: none;
   padding: 0 10px 0 10px;
   margin: 0 auto;
@@ -1048,4 +1048,7 @@ li {
   background-image: url("http://ksforum.net/xpressengine/files/attach/images/139/215/64b678172e840622685a5bb472e68598.jpg");
   background-repeat: repeat-x;
   margin-bottom: 5px;
+}
+.img-border {
+  border: 2px solid black;
 }
